@@ -39,6 +39,6 @@
     "includeSourceInSymbolFile": false
   },
   "target": "Cloud",
-  "runtime": "11.0",
+  "runtime": "12.0",
   "features":["TranslationFile", "GenerateCaptions"]
 }

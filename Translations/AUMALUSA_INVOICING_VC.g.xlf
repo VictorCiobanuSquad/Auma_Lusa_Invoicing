@@ -2,7 +2,183 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en-US" target-language="en-US" original="AUMALUSA_INVOICING_VC">
     <body>
-      <group id="body" />
+      <group id="body">
+        <trans-unit id="Report 1697070044 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Combine Shipments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - NamedType 2962434689" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Not all the invoices were created. A total of %1 invoices were not created.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - NamedType NotAllInvoicesCreatedMsg</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the posting date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the document date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Combining shipments...\\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.    #1##########\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No.       #2##########\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment No.    #3##########</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Not all the invoices were posted. A total of %1 invoices were not posted.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is nothing to combine.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The shipments are now combined and the number of invoices created is %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The shipments are now combined, and the number of invoices created is %1.\%2 Shipments with nonstandard payment terms have not been combined.</source>
+          <note from="Developer" annotates="general" priority="2">%1-Number of invoices,%2-Number Of shipments</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - NamedType 3176912617" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the VAT date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - NamedType VATDateEmptyErr</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - ReportDataItem 2263052891 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - ReportDataItem SalesOrderHeader - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - ReportDataItem 3118382297 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Sales Shipment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - ReportDataItem Sales Shipment Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - Control 2780809675 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the invoice discount amount to be automatically calculated on the shipment.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - Control CalcInvDisc - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - Control 2780809675 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calc. Inv. Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - Control CalcInvDisc - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - Control 2699193159 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want manually written text on the shipment lines to be copied to the invoice.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - Control CopyTextLines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - Control 2699193159 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Copy Text Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - Control CopyTextLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - Control 4040901854 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the document date for the invoice(s) that the batch job creates. This field must be filled in.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - Control DocDateReq - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - Control 4040901854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - Control DocDateReq - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - Control 3954803709 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to include shipments with standard payments terms. If you select this option, you must manually invoice all other shipments.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - Control OnlyStdPmtTerms - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - Control 3954803709 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Only Std. Payment Terms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - Control OnlyStdPmtTerms - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - Control 3037438984 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the posting date for the invoice(s) that the batch job creates. This field must be filled in.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - Control PostingDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - Control 3037438984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - Control PostingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - Control 3789019539 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to have the invoices posted immediately.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - Control PostInv - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - Control 3789019539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - Control PostInv - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - Control 2727608665 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the VAT Date for the invoice(s) that the batch job creates. This field must be filled in.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - Control VATDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1697070044 - Control 2727608665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Combine Shipments Squad - Control VATDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 553872539 - Control 2411012608 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Pag-Ext50000.CustomerCard - Control Invoice Automatically - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 553872539 - Control 2456224210 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Pag-Ext50000.CustomerCard - Control Periodicity Period - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 34278103 - Field 2411012608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Invoice Automatically</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Employee.Extension - Field Invoice Automatically - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 34278103 - Field 2456224210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Periodicity Period</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Employee.Extension - Field Periodicity Period - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 34278103 - Field 2456224210 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source> ,Teste1,Teste2,Teste3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Employee.Extension - Field Periodicity Period - Property OptionCaption</note>
+        </trans-unit>
+      </group>
     </body>
   </file>
 </xliff>
